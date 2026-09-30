@@ -1,0 +1,8 @@
+# AquaPulse backend — tested target: CPython 3.12.x on Windows 11
+fastapi==0.116.1
+httpx==0.28.1
+uvicorn[standard]==0.35.0
+pydantic==2.11.7
+numpy==2.3.3
+pandas==2.3.2
+scikit-learn==1.7.2

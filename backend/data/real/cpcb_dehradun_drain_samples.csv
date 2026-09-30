@@ -1,0 +1,7 @@
+source,year,season,drain,city,latitude,longitude,status,flow_mld,bod_mg_l,cod_mg_l
+CPCB Post-Monsoon 2023,2023,post-monsoon,Rispana,Dehradun,30.25956,78.02984,untapped,755.56,32,114
+CPCB Post-Monsoon 2023,2023,post-monsoon,Bindal,Dehradun,30.26032,78.02676,untapped,1162.27,6,32
+CPCB Pre-Monsoon 2023,2023,pre-monsoon,Rispana,Dehradun,30.25961,78.02968,untapped,370.29,5,13
+CPCB Pre-Monsoon 2023,2023,pre-monsoon,Bindal Rao,Dehradun,30.26070,78.02652,untapped,789.94,4,10
+CPCB Post-Monsoon 2022,2022,post-monsoon,Rispana,Dehradun,30.260846,78.027907,untapped,,56,
+CPCB Post-Monsoon 2022,2022,post-monsoon,Bindal Rao,Dehradun,30.26069,78.026529,untapped,,145,

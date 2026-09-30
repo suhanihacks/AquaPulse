@@ -1,0 +1,11 @@
+{
+  "scenario": "monsoon_rain_amplified_runoff",
+  "label": "SIMULATED DEMO DATA",
+  "city": "Dehradun",
+  "signals": [
+    {"t":"10:00","segment":"BINDAL-UPPER","rain_1h":12.0,"turbidity_anomaly":0.10,"do_anomaly":0.02,"citizen_reports":0},
+    {"t":"10:30","segment":"BINDAL-MID","rain_1h":26.0,"turbidity_anomaly":0.32,"do_anomaly":0.08,"citizen_reports":1},
+    {"t":"11:00","segment":"BINDAL-MID","rain_1h":41.0,"turbidity_anomaly":0.86,"do_anomaly":0.22,"citizen_reports":4},
+    {"t":"11:30","segment":"BINDAL-CONFLUENCE","rain_1h":38.0,"turbidity_anomaly":0.71,"do_anomaly":0.17,"citizen_reports":2}
+  ]
+}

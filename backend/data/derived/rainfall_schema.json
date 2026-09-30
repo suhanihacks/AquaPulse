@@ -1,0 +1,10 @@
+{
+  "source": "NASA GPM IMERG",
+  "source_type": "real",
+  "version": "V07B",
+  "spatial_resolution": "0.1 degree / 10 km",
+  "native_temporal_resolution": "30 minutes",
+  "required_fields": ["timestamp", "rain_mm", "latitude", "longitude", "source"],
+  "derived_fields": ["rain_1h", "rain_3h", "rain_24h", "rain_72h", "rain_intensity_mm_hr", "rainfall_anomaly"],
+  "note": "The local application can cache NASA observations when accessible. No synthetic rainfall should be labelled real."
+}

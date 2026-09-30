@@ -1,0 +1,15 @@
+observation_id,date,season,segment_id,segment_name,river,parameter,value,unit,direction,source,source_type,quality_flag,drain,latitude,longitude
+CPCB-2023-post-monsoon-Rispana-BOD,2023,post-monsoon,RISPANA-LOWER,Rispana Lower,Rispana/Song system,BOD,32.0,mg/L,high,CPCB,real,official_contextual_sample,Rispana,30.25956,78.02984
+CPCB-2023-post-monsoon-Rispana-COD,2023,post-monsoon,RISPANA-LOWER,Rispana Lower,Rispana/Song system,COD,114.0,mg/L,high,CPCB,real,official_contextual_sample,Rispana,30.25956,78.02984
+CPCB-2023-post-monsoon-Rispana-Flow,2023,post-monsoon,RISPANA-LOWER,Rispana Lower,Rispana/Song system,Flow,755.56,MLD,both,CPCB,real,official_contextual_sample,Rispana,30.25956,78.02984
+CPCB-2023-post-monsoon-Bindal-BOD,2023,post-monsoon,BINDAL-CONFLUENCE,Bindal Confluence,Bindal/Song system,BOD,6.0,mg/L,high,CPCB,real,official_contextual_sample,Bindal,30.26032,78.02676
+CPCB-2023-post-monsoon-Bindal-COD,2023,post-monsoon,BINDAL-CONFLUENCE,Bindal Confluence,Bindal/Song system,COD,32.0,mg/L,high,CPCB,real,official_contextual_sample,Bindal,30.26032,78.02676
+CPCB-2023-post-monsoon-Bindal-Flow,2023,post-monsoon,BINDAL-CONFLUENCE,Bindal Confluence,Bindal/Song system,Flow,1162.27,MLD,both,CPCB,real,official_contextual_sample,Bindal,30.26032,78.02676
+CPCB-2023-pre-monsoon-Rispana-BOD,2023,pre-monsoon,RISPANA-LOWER,Rispana Lower,Rispana/Song system,BOD,5.0,mg/L,high,CPCB,real,official_contextual_sample,Rispana,30.25961,78.02968
+CPCB-2023-pre-monsoon-Rispana-COD,2023,pre-monsoon,RISPANA-LOWER,Rispana Lower,Rispana/Song system,COD,13.0,mg/L,high,CPCB,real,official_contextual_sample,Rispana,30.25961,78.02968
+CPCB-2023-pre-monsoon-Rispana-Flow,2023,pre-monsoon,RISPANA-LOWER,Rispana Lower,Rispana/Song system,Flow,370.29,MLD,both,CPCB,real,official_contextual_sample,Rispana,30.25961,78.02968
+CPCB-2023-pre-monsoon-Bindal Rao-BOD,2023,pre-monsoon,BINDAL-CONFLUENCE,Bindal Confluence,Bindal/Song system,BOD,4.0,mg/L,high,CPCB,real,official_contextual_sample,Bindal Rao,30.2607,78.02652
+CPCB-2023-pre-monsoon-Bindal Rao-COD,2023,pre-monsoon,BINDAL-CONFLUENCE,Bindal Confluence,Bindal/Song system,COD,10.0,mg/L,high,CPCB,real,official_contextual_sample,Bindal Rao,30.2607,78.02652
+CPCB-2023-pre-monsoon-Bindal Rao-Flow,2023,pre-monsoon,BINDAL-CONFLUENCE,Bindal Confluence,Bindal/Song system,Flow,789.94,MLD,both,CPCB,real,official_contextual_sample,Bindal Rao,30.2607,78.02652
+CPCB-2022-post-monsoon-Rispana-BOD,2022,post-monsoon,RISPANA-LOWER,Rispana Lower,Rispana/Song system,BOD,56.0,mg/L,high,CPCB,real,official_contextual_sample,Rispana,30.260846,78.027907
+CPCB-2022-post-monsoon-Bindal Rao-BOD,2022,post-monsoon,BINDAL-CONFLUENCE,Bindal Confluence,Bindal/Song system,BOD,145.0,mg/L,high,CPCB,real,official_contextual_sample,Bindal Rao,30.26069,78.026529
